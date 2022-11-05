@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+	padding: 100px 0 10px;
+	background-color: #4f2aa5;
+	color: white;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.texto {
+  margin: 40px;
+  padding: 20px;
+  text-indent: 20px;  
+}
+
+.paragrafo-padrao {
+  background-color: #f5f5f5;
+}
+
+.paragrafo-destacado {
+  background-color: #f0cce2;
+}
